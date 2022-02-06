@@ -1,6 +1,6 @@
 
 
-Olá! Eu sou Daniel Sergio, Sou Fatecano, comecei o mundo da programação por lá. Do absoluto zero ao desenvolvimento de um WMS como projeto integrador do curso.
+Olá! Eu sou Daniel Sergio, estudo na FATEC Guarulhos, comecei o mundo da programação por lá. Do absoluto zero ao desenvolvimento de um WMS como projeto integrador do curso.
 
 <div>
   <a href="https://github.com/danielsergio22">
