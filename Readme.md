@@ -10,9 +10,9 @@ Olá! Eu sou Daniel Sergio, estudo na FATEC Guarulhos, comecei o mundo da progra
 
   </div>
 <div style="display: inline_block"><br>
-  
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Daniel-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   
   <img align="right" alt="Daniel" height="100" width="110" src="https://cdn.discordapp.com/avatars/353724974361477120/a2f1b9c9b96510f2b27e53c3028ac119">
 </div>
