@@ -1,6 +1,8 @@
 
 
-Olá! Eu sou Daniel Sergio, estudo na FATEC Guarulhos, comecei o mundo da programação por lá. Do absoluto zero ao desenvolvimento de um WMS como projeto integrador do curso.
+Olá! Eu sou Daniel Sergio, estudo na FATEC Guarulhos, comecei o mundo da programação por lá. Do absoluto zero ao desenvolvimento de um WMS como projeto integrador do curso. Minha linguagem de programação principal é Java.
+
+Hello! I'm Daniel Sergio, i am studing at Fatec Guarulhos, i joined in the programming world there. From nothing to the developmenting of a WMS as a course integrator project. My Main programming language is Java.
 
 <div>
   <a href="https://github.com/danielsergio22">
